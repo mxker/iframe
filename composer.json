@@ -1,0 +1,22 @@
+{
+    "name": "root/iframe",
+    "description": "A simple php framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mxker",
+            "email": "mxk_crazy@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sf\\": "src/",
+            "app\\": ""
+        }
+    },
+    "repositories": [
+        {"type": "composer", "url": "http://packagist.phpcomposer.com"},
+        {"packagist": false}
+    ]
+}
