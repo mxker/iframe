@@ -1,2 +1,2 @@
-# PHPFarme
+# miframe
 Personal PHP framework
