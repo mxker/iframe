@@ -1,2 +1,2 @@
-# miframe
+# myframe
 Personal PHP framework
